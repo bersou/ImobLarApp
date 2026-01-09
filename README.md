@@ -117,6 +117,6 @@ Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) par
 
 <div align="center">
 
-Feito com ❤️ por **Bernardo Francisco**
+Feito com ❤️ por **José Bernardo**
 
 </div>
